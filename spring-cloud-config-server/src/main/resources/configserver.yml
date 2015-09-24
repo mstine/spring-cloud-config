@@ -18,4 +18,10 @@ server:
   port: 8888
 management:
   context_path: /admin
+
+# Temporary Vault Stuff
+
+vault:
+  host: http://localhost:8200
+  token: a022a573-e102-6258-9c80-7d962b14d8bf
  
